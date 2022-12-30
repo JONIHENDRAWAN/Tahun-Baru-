@@ -1,0 +1,31 @@
+/*2272034-Joni Hendrawan*/
+.body {
+    background-color: black;
+}
+
+.garis {
+    color: gold;
+    font-family: 'Satisfy', cursive;
+}
+
+.happy {
+    color: rgba(234, 255, 47, 0.93);
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+
+.cla {
+    color: fuchsia;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+.p {
+    color: gold;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+
+
+   
